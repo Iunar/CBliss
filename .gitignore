@@ -1,5 +1,8 @@
 lvl-edit
 
+*.sh
+assets/
+
 # Prerequisites
 *.d
 
