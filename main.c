@@ -8,7 +8,7 @@
 #define global static
 
 
-#include "../types.h"
+#include "types.h"
 #include "editor.c"
 
 void DisplayTarget(RenderTexture2D target);
